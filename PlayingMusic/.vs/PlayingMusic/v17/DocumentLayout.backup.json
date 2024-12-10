@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\melovare\\source\\repos\\PlayingMusic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44B29C0A-9C28-4329-BEA4-D832FA0BEA82}|PlayingMusic.vcxproj|C:\\Users\\melovare\\source\\repos\\PlayingMusic\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{44B29C0A-9C28-4329-BEA4-D832FA0BEA82}|PlayingMusic.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\melovare\\source\\repos\\PlayingMusic\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\melovare\\source\\repos\\PlayingMusic\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T12:10:33.114Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
